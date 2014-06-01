@@ -1,0 +1,11 @@
+libcgcdwarf (977-cqe-kickoff-release) UNRELEASED; urgency=low
+
+  * build
+
+ -- Brian Caswell <bmc@lungetech.com>  Wed, 23 Apr 2014 11:27:52 +0000
+
+libcgcdwarf (1.0) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Brian Caswell <bmc@lungetech.com>  Mon, 14 Apr 2014 18:34:59 -0400
